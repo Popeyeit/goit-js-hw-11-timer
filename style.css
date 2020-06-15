@@ -1,0 +1,8 @@
+.timer {
+    display: flex;
+    justify-content: center;
+}
+
+.field:not(:last-child) {
+    margin-right: 40px;
+}
